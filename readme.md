@@ -21,10 +21,10 @@ The file contains a json object which houses the information of the members . Yo
 
 ```
 {
-	   "Ademola Abisayo Paul":{
-	   	  "name": "Ademola Abisayo Paul",
-	      "twitter":"sayo_paul",
-	      "github":"sayopaul"
+	   "Oyewale Kehinde Oluwaseun":{
+	   	  "name": "Oyewale Kehinde Oluwaseun ",
+	      "twitter":"oyewale_kehinde",
+	      "github":"oyewalekehinde"
 	   }
  }
 ```
@@ -49,14 +49,14 @@ To add your name , use the following template and fill in your information appro
 and this on the other hand is correct
 ```
 {
-	   "Ademola Abisayo Paul":{
-	      "twitter":"sayo_paul",
-	      "github":"sayopaul"
+	   "Oyewale Kehinde Oluwaseun":{
+	      "twitter":"oyewale_kehinde",
+	      "github":"oyewalekehinde"
 	   }, 
-	   "Your Name Here":{
-	   	"name":"Your full name here",
-		"twitter":"your twitter handle/username here",
-		"github":"your github username here"
+	   "Oyewale Kehinde Oluwaseun ":{
+	   	"name":"Oyewale Kehinde Oluwaseun",
+		"twitter":"oyewale_kehinde",
+		"github":"oyewalekehinde"
 		}
 }
 ```
